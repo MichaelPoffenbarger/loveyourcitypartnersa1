@@ -1,0 +1,114 @@
+{
+    "partners": [
+      {
+        "id": 1,
+        "name": "Auto Care Express",
+        "category": "automotive",
+        "description": "Full-service auto repair and maintenance",
+        "address": "123 Main St, City, ST 12345",
+        "phone": "(555) 123-4567",
+        "website": "www.autocare.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/304ff6f1-e910-4fe4-ad35-139e036955ca/Azle%2BDiscount%2BAutomotive%2B%26%2BTire%2BLogo.jpg?format=300w"
+      },
+      {
+        "id": 2,
+        "name": "Christian Brothers Automotive",
+        "category": "automotive",
+        "description": "Comprehensive automotive services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/b9dc2f1b-2c0c-4e67-806e-48f6689f5540/christian%2Bbros%2Blogo.png?format=300w"
+      },
+      {
+        "id": 3,
+        "name": "Winstead Paint & Body",
+        "category": "automotive",
+        "description": "Comprehensive automotive services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/aab84033-96f3-400a-97b6-3d2394b58d71/Winstead+paint+and+body.png?format=300w"
+      },
+      {
+        "id": 4,
+        "name": "Integrated Machinery Solutions",
+        "category": "manufaturing",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/13660ce7-8b86-4917-9fe2-73a5828d8c0c/integrated%2Bmachinery%2Blogo.png?format=300w"
+      },
+      {
+        "id": 5,
+        "name": "Metroplex Fabrication & Erection",
+        "category": "manufacturing",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/2276dc2c-4e1b-493b-bcc2-52ecf5ebf8d7/metroplex%2Bfab%2Blogo.png?format=300w"
+      },
+      {
+        "id": 6,
+        "name": "Mueller INC.",
+        "category": "manufacturing",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/e7542d07-d10a-48a2-87df-0b67389ae9d8/Mueller%2BInc%2BLogo.jpg?format=300w"
+      },
+      {
+        "id": 7,
+        "name": "Rogue Crane Services",
+        "category": "manufacturing",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/45621ed4-04df-41fc-a45c-2a8d6ad45052/Rogue+%281%29.png?format=300w"
+      },
+      {
+        "id": 8,
+        "name": "Champion Hotshots",
+        "category": "towing",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/a1f1597a-676f-4b52-89fe-916c408f4a48/301374143_592419522473828_3273810055464868156_n.jpg?format=300w"
+      },
+      {
+        "id": 9,
+        "name": "City Health Center",
+        "category": "nonprofit",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": 10,
+        "name": "City Health Center",
+        "category": "entertainment",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": 11,
+        "name": "City of Azle",
+        "category": "all",
+        "description": "Comprehensive healthcare services",
+        "address": "789 Medical Pkwy, City, ST 12345",
+        "phone": "(555) 345-6789",
+        "website": "www.cityhealthcenter.com",
+        "image": "https://www.cityofazle.org/ImageRepository/Document?documentId=8747"
+      }
+    ]
+  }
